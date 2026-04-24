@@ -1,0 +1,11 @@
+*.tmp
+*.log
+*.swp
+.DS_Store
+Thumbs.db
+__pyache__/
+*.pyc
+*.txt
+!important.txt
+build/
+secrets/config.json
